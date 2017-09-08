@@ -1,0 +1,58 @@
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\bin\Debug\ortalama hesapla.exe.config
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\_25Subat13.Form1.resources
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\_25Subat13.Properties.Resources.resources
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\_25Subat13.Form2.resources
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\_25Subat13.MainForm.resources
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\bin\Debug\ortalama hesapla.exe
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\bin\Debug\ortalama hesapla.pdb
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\ortalama hesapla.exe
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\ortalama hesapla.pdb
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\user\Desktop\ortalama v1.2\25Subat13\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\obj\x86\Debug\25Subat13.csprojResolveAssemblyReference.cache
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\obj\x86\Debug\_25Subat13.Form1.resources
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\obj\x86\Debug\_25Subat13.Properties.Resources.resources
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\obj\x86\Debug\_25Subat13.Form2.resources
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\obj\x86\Debug\_25Subat13.MainForm.resources
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\obj\x86\Debug\25Subat13.csproj.GenerateResource.Cache
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\bin\Debug\ortalama_hesapla.exe.config
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\bin\Debug\ortalama_hesapla.exe
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\bin\Debug\ortalama_hesapla.pdb
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\obj\x86\Debug\ortalama_hesapla.exe
+C:\Users\Dogus\Desktop\ortalama v1.2 framework 2.0\25Subat13\obj\x86\Debug\ortalama_hesapla.pdb
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\bin\Debug\ortalama_hesapla.exe.config
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\obj\x86\Debug\ortalama_hesapla.exe
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\obj\x86\Debug\ortalama_hesapla.pdb
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\bin\Debug\ortalama_hesapla.exe
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\bin\Debug\ortalama_hesapla.pdb
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\obj\x86\Debug\25Subat13.csprojResolveAssemblyReference.cache
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\obj\x86\Debug\_25Subat13.Form1.resources
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\obj\x86\Debug\_25Subat13.Properties.Resources.resources
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\obj\x86\Debug\_25Subat13.Form2.resources
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\obj\x86\Debug\_25Subat13.MainForm.resources
+C:\Users\Dogus\Desktop\ortalama v1.3\25Subat13\obj\x86\Debug\25Subat13.csproj.GenerateResource.Cache
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\bin\Debug\ortalama_hesapla.exe.config
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\obj\x86\Debug\ortalama_hesapla.exe
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\obj\x86\Debug\ortalama_hesapla.pdb
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\bin\Debug\ortalama_hesapla.exe
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\bin\Debug\ortalama_hesapla.pdb
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\obj\x86\Debug\25Subat13.csprojResolveAssemblyReference.cache
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\obj\x86\Debug\_25Subat13.Form1.resources
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\obj\x86\Debug\_25Subat13.Properties.Resources.resources
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\obj\x86\Debug\_25Subat13.Form2.resources
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\obj\x86\Debug\_25Subat13.MainForm.resources
+D:\Ders\ortalama hesapla\ortalama v1.3\25Subat13\obj\x86\Debug\25Subat13.csproj.GenerateResource.Cache
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\bin\Debug\ortalama_hesapla.exe.config
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\obj\x86\Debug\ortalama_hesapla.exe
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\obj\x86\Debug\ortalama_hesapla.pdb
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\bin\Debug\ortalama_hesapla.exe
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\bin\Debug\ortalama_hesapla.pdb
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\obj\x86\Debug\25Subat13.csprojResolveAssemblyReference.cache
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\obj\x86\Debug\_25Subat13.Form1.resources
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\obj\x86\Debug\_25Subat13.Properties.Resources.resources
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\obj\x86\Debug\_25Subat13.Form2.resources
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\obj\x86\Debug\_25Subat13.MainForm.resources
+C:\Users\linux\Desktop\ortalama v1.4\25Subat13\obj\x86\Debug\25Subat13.csproj.GenerateResource.Cache
